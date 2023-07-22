@@ -60,7 +60,7 @@ A continuación, te presento una visión integral de las temáticas que aprender
 - Uso de herramientas como Swagger, Jenkins y RabbitMQ.
 - Proyecto de vida y desarrollo profesional.
 
-![CRONOGRAMA BACKEND](https://github.com/MAKAIABootcamp/Cronograma-Backend/assets/111402022/ccd603b2-fdbc-4a1b-91cd-0221ab771407)
+
 
 
 
